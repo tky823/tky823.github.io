@@ -12,7 +12,7 @@ title                    : "Takuya Hasumi / Site Title"
 title_separator          : "-"
 name                     : &name "Takuya Hasumi"
 description              : &description "personal description"
-url                      : https://tky823.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tky823.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tky823/tky823.github.io"
 
