@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Takuya Hasumi / Site Title"
+title                    : "Takuya Hasumi / Home Page"
 title_separator          : "-"
 name                     : &name "Takuya Hasumi"
 description              : &description "personal description"
