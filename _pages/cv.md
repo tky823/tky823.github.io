@@ -15,7 +15,7 @@ Education
 - M.S in Information Science and Technology, Mar. 2022.<br>
   Graduate School of Information Science and Technology, The University of Tokyo, Japan,
 - B.S in Science and Engineering, Mar. 2020.<br>
-  Department of Communications and Computer Engineering, School of Fundamaneta Science and Engineering, Waseda University, Japan.
+  Department of Communications and Computer Engineering, School of Fundamental Science and Engineering, Waseda University, Japan.
 
 Work experience
 ======
