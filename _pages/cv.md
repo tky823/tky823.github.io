@@ -22,7 +22,7 @@ Work experience
 - Oct. 2023-: LY Corporation
   - Music processing
 
-- April 2022: LINE
+- Apr. 2022: LINE
   - Speech synthesis
   - Music processing
 
