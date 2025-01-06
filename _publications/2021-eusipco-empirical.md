@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-eusipco-empirical
 excerpt: "This paper propose an IDLMA extension, empirical Bayesian IDLMA (EB-IDLMA) to implicitly consider the reliability of the estimated source power spectrograms for the estimation of demixing filters through the hyperparameters of the prior distribution estimated by the DNN."
-date: 2021
+date: 2021-08-23
 venue: 'ICASSP'
 ---
 
